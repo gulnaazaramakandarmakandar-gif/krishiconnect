@@ -1,0 +1,11 @@
+City,Temperature,Humidity,Rain,WindSpeed,Condition
+Davangere,30,65,No,12,Sunny
+Hubli,28,70,Yes,15,Rainy
+Belagavi,26,75,Yes,10,Cloudy
+Bengaluru,27,68,No,14,Partly Cloudy
+Mysuru,29,66,No,11,Sunny
+Mangaluru,25,85,Yes,18,Heavy Rain
+Shivamogga,24,80,Yes,13,Cloudy
+Vijayapura,32,55,No,16,Sunny
+Ballari,33,50,No,20,Hot
+Kalaburagi,34,48,No,22,Very Hot
